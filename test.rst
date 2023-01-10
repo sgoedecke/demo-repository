@@ -1,5 +1,6 @@
-.. toctree::
-
+.. contents:: Table of Contents
+    :depth: 3
+    
 #############
 Heading 1
 #############
